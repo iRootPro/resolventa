@@ -1,0 +1,19 @@
+.wrap {
+    width: 800px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    font-size: 30px;
+    font-weight: 600;
+    margin: 20px;
+}
+
+
+.favoriteButton {
+    margin-bottom: 10px;
+}

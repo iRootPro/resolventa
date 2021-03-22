@@ -1,0 +1,19 @@
+.wrap {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    padding: 10px;
+}
+
+.cell {
+    width: 200px;
+}
+
+.image {
+    width: 50px;
+}
+
+.name:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}

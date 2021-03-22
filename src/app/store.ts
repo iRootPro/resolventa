@@ -1,4 +1,4 @@
-import { combineReducers, configureStore } from "@reduxjs/toolkit"
+import {combineReducers, configureStore} from "@reduxjs/toolkit"
 import thunkMiddleware from "redux-thunk"
 import {characterReducer} from './../reducers/character'
 

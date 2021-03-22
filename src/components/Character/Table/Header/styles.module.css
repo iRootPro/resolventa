@@ -1,0 +1,11 @@
+.title {
+    padding: 10px;
+    background-color: #dedede;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.cell {
+    width: 200px;
+}
